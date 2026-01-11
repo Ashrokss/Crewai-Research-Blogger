@@ -1,0 +1,16 @@
+report_task:
+  description: >
+    Conduct a thorough research about {topic}
+    Make sure you find any interesting and relevant information given
+    the current year is 2024.
+  expected_output: >
+    A list with 10 bullet points of the most relevant information about {topic}
+  agent: report_generator
+
+blog_writing_task:
+  description: >
+    Write a blog post about {topic}.
+    The blog post should be descriptive and interesting.
+  expected_output: >
+    A comprehensive blog post about {topic} in markdown format
+  agent: blog_writer
