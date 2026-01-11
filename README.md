@@ -48,7 +48,10 @@ This command initializes the research_and_blog_crew Crew, assembling the agents 
 
 This will run the crew and generate a comprehensive blog post in the `blogs/` directory (e.g., `blogs/blog.md`) covering your specified topic.
 
-## 🧠 Understanding Your Crew
+## ClI version Preview :
+<img width="1347" height="599" alt="image" src="https://github.com/user-attachments/assets/1ffac5a8-fdea-4b14-8782-2b1f374d13c9" />
+
+## 🧠 Crew Details
 
 The **ResearchAndBlogCrew** is composed of two specialized AI agents that work sequentially:
 
