@@ -48,8 +48,15 @@ This command initializes the research_and_blog_crew Crew, assembling the agents 
 
 This will run the crew and generate a comprehensive blog post in the `blogs/` directory (e.g., `blogs/blog.md`) covering your specified topic.
 
-## ClI version Preview :
+## CLI version Preview :
 <img width="1347" height="599" alt="image" src="https://github.com/user-attachments/assets/1ffac5a8-fdea-4b14-8782-2b1f374d13c9" />
+
+## WebApp Preview :
+<img width="1354" height="416" alt="image" src="https://github.com/user-attachments/assets/f85a1f0e-0808-4328-976c-97b51894573b" />
+
+## Response Preview :
+<img width="1056" height="598" alt="image" src="https://github.com/user-attachments/assets/63f510c1-1d61-4aef-a8f2-7e755987b29c" />
+
 
 ## 🧠 Crew Details
 
