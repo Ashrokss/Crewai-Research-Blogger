@@ -44,6 +44,24 @@ To kickstart your crew of AI agents and begin task execution, run this from the 
 $ crewai run
 ```
 
+### Running the Web Application
+
+The project consists of a FastAPI backend and a Next.js frontend.
+
+#### 1. Start the Backend API
+Navigate to the `src` directory and run:
+```bash
+uvicorn research_and_blog_crew.api:app --reload --port 8000
+```
+
+#### 2. Start the Frontend
+Navigate to the `frontend` directory and run:
+```bash
+npm run dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) in your browser.
+
 This command initializes the research_and_blog_crew Crew, assembling the agents and assigning them tasks as defined in your configuration.
 
 This will run the crew and generate a comprehensive blog post in the `blogs/` directory (e.g., `blogs/blog.md`) covering your specified topic.
