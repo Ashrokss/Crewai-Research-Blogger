@@ -2,7 +2,7 @@ report_task:
   description: >
     Conduct a thorough research about {topic}
     Make sure you find any interesting and relevant information given
-    the current year is 2024.
+    the current date is {current_date}.
   expected_output: >
     A list with 10 bullet points of the most relevant information about {topic}
   agent: report_generator

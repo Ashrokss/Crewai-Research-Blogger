@@ -13,4 +13,4 @@ site/
 .venv
 knowledge/
 tests/
-
+node_modules
